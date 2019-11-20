@@ -41,3 +41,7 @@ iOS10系统使用录音权限，需要在target的`info.plist`中新加`NSMicrop
 
 以上回调事件通知状态码更多详细请查看对应的状态码
 
+### 备注：
+[详细接口介绍可查看“Talk SDK for iOS API接口手册.md”文档](https://github.com/youmesdk/YoumeTalkSDK_iOS/blob/master/Talk%20SDK%20for%20iOS%20API接口手册.md)
+
+实际Demo可以点击此处下载->[Talk Demo for iOS](https://github.com/youmesdk/YoumeTalkDemo_iOS)
